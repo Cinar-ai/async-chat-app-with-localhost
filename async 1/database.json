@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1771871343957,
+      "name": "",
+      "email": "",
+      "password": "$2a$10$wBSVU4Sg78LmUpRoNwokRuTdzbpM7VPHx9BXtzFflv0qH5gXpLtqm"
+    },
+    {
+      "id": 1771872417090,
+      "name": "cinar savas",
+      "email": "csdelsavas@gmail.com",
+      "password": "$2a$10$gd/KHT8X96qD4mTcbDP72uqqEPt/2DdcaYgIdYhHrAKGgtUfHTub6"
+    },
+    {
+      "id": 1771872838370,
+      "name": "cinar savas",
+      "email": "chessschess@gmail.com",
+      "password": "$2a$10$l0kMa9MMxCayCtE6VTDnweu/IM3bS6RnKMEKVnWHkNR2f9mCmSC7q"
+    }
+  ],
+  "messages": [
+    {
+      "sender": "cinar savas",
+      "text": "dslkhfkjsadhfkadsf",
+      "timestamp": "2026-02-23T18:47:14.141Z"
+    },
+    {
+      "sender": "cinar savas",
+      "text": "dfjskdafhsdajfhsdfhdsfdshaşaşdfş",
+      "timestamp": "2026-02-23T18:48:55.346Z"
+    },
+    {
+      "sender": "cinar savas",
+      "text": "sdfhsdfjkhsdjf",
+      "timestamp": "2026-02-23T18:49:06.012Z"
+    },
+    {
+      "sender": "Guest952",
+      "text": "sdfdsfsdfsdfsdafsdf",
+      "timestamp": "2026-02-23T18:49:19.850Z"
+    },
+    {
+      "sender": "Guest8890",
+      "text": "fdsadfsdf",
+      "timestamp": "2026-02-23T18:49:25.470Z"
+    }
+  ]
+}
